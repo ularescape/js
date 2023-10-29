@@ -269,5 +269,31 @@ line-height: 24px;
 }
 .provide_btns{
 	padding: 40px;
-	
+}
+.events{
+	display: flex;
+	justify-content: space-between;
+	margin: 80px;
+}
+.event{
+	width: 24%;
+	transition: 0.5s;
+	border: 1px solid var(--grey,#f6f6f6);
+	background: #fff;
+	margin-bottom: 30px;
+}
+.event:hover{
+	box-shadow: 0px 0px 18px 0px rgba(85, 83, 83, 0.25);
+}
+.offer_tit{
+color: #2C2F24;
+font-size: 55px;
+font-weight: 500;
+line-height: 60.5px;
+}
+.offer_txt2{
+	padding: 15px 0;
+}
+.offer_tit{
+	top: 120px;
 }
