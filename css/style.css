@@ -239,4 +239,24 @@ font-size: 16px;
 font-weight: 700;
 line-height: 24px;
 }
-
+.food{
+	display: flex;
+}
+.sec_tit{
+color:  #2C2F24;
+font-size: 55px;
+font-weight: 500;
+line-height: 60.5px; 
+}
+.provide_txt{
+color: #2C2F24;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px; 
+}
+.provide_txt2{
+color:  #414536;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
